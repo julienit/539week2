@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #cfebb6;
+    margin: 4;
+    padding: 4;
+}
+
+h1 {
+    font-size: 32;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2{
+    
+}
