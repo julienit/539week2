@@ -7,11 +7,19 @@ body{
 
 h1 {
     font-size: 32;
-    font-weight: 100;
+    font-weight: 300;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
 
 h2{
-    
+   font-size: 24; 
+   font-weight: 100;
+   color: #03393f;
+}
+
+images{
+    margin: 20px;
+    padding: 20px;
+    border-top-right-radius: 30px;
 }
